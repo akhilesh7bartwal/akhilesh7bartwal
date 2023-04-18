@@ -1,4 +1,4 @@
-- I am a MERN FULL STACK DEVELOPER💻 , I have in good knowldege of HTML5, CSS3, Vanilla JavaScript, React.js, Node.js, Express.js, MongoDB and Git.
+- I am a MERN FULL STACK DEVELOPER, I have in good knowldege of HTML5, CSS3, Vanilla JavaScript, React.js, Node.js, Express.js, MongoDB and Git.
 - You can reach me! mail me on akhileshbartwal61@gmail.com
 
 <!---
