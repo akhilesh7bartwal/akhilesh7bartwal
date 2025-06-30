@@ -1,4 +1,4 @@
-- MERN STACK DEVELOPER, I have a good knowldege of HTML5, CSS3, JavaScript, React.js, Node.js, Express.js, MongoDB, Mysql and Git.
+- MERN STACK DEVELOPER, I have a good knowledge of HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, Mysql and Git.
 - You can reach me on akhileshbartwal61@gmail.com
 
 <!---
